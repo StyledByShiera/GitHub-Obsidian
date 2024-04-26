@@ -4,6 +4,8 @@
 
 <p align=“left”>Just like you, I'm a career shifter making my way into the world of code. It can be intimidating, but trust me, it's also incredibly rewarding! This repository is here to offer a helping hand and guide you through those initial steps.</p>
 
+<br>
+
 <h3 align=“left”>✨ What's Inside?</h3>
 <ol>
 <li><b><i>Clear and Concise Guides:</b></i></li>
@@ -27,6 +29,8 @@
 <li><b><i>Learn at Your Own Pace:</b></i></li>
 - Explore the guides at your convenience and build your knowledge base confidently.
 </ol>
+
+<br>
 
 <h3>Let's Learn Together! 📚</h3>
 
