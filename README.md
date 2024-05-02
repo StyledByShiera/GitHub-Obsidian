@@ -35,5 +35,6 @@
 This repository is a work in progress, and I'm constantly adding new guides based on my own learnings. Feel free to contribute your own experiences, ask questions, and build a community of aspiring programmers with us!
 
 <h3>Together, we can conquer the coding world! 💪🏻</h3>
-
+<br>
+<br>
 <p><b><i>Shiera Laran</b></i></p>
