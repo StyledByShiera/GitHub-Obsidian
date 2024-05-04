@@ -11,8 +11,12 @@
             "id": "026cca8ff1b3b7b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GitHub/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GitHub/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GitHub/README.md"
+              }
             }
           },
           {
@@ -149,6 +157,10 @@
   },
   "active": "026cca8ff1b3b7b8",
   "lastOpenFiles": [
+    "GitHub/Created README in Terminal.md",
+    "z-attachments/Screenshot 2024-04-26 at 4.29.21 PM.png",
+    "GitHub/README.md",
+    "GitHub",
     "Welcome.md",
     "z-attachments",
     "attachments"
