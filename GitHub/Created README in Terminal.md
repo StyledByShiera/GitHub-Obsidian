@@ -19,7 +19,7 @@
 ---
 
 
-![](Screenshot%202024-04-26%20at%204.29.21%20PM.png)
+![](../z-attachments/Screenshot%202024-04-26%20at%204.29.21%20PM%201.png)
 
 
 *Sublime and GitHub Code:*
