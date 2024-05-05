@@ -11,9 +11,11 @@
             "id": "026cca8ff1b3b7b8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z-attachments/Screenshot 2024-04-26 at 4.29.21 PM.png"
+                "file": "GitHub/My GitHub README Code.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z-attachments/Screenshot 2024-04-26 at 4.29.21 PM.png",
+                "file": "GitHub/My GitHub README Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z-attachments/Screenshot 2024-04-26 at 4.29.21 PM.png",
+                "file": "GitHub/My GitHub README Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z-attachments/Screenshot 2024-04-26 at 4.29.21 PM.png"
+                "file": "GitHub/My GitHub README Code.md"
               }
             }
           },
@@ -155,9 +157,11 @@
   },
   "active": "026cca8ff1b3b7b8",
   "lastOpenFiles": [
-    "GitHub/README.md",
+    "z-attachments/Screenshot 2024-05-04 at 11.35.14 AM.png",
     "GitHub/Created README in Terminal.md",
+    "GitHub/My GitHub README Code.md",
     "z-attachments/Screenshot 2024-04-26 at 4.29.21 PM.png",
+    "GitHub/README.md",
     "GitHub",
     "Welcome.md",
     "z-attachments",
