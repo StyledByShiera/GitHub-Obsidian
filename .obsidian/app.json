@@ -2,5 +2,7 @@
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": false,
   "attachmentFolderPath": "z-attachments",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "trashOption": "local",
+  "showInlineTitle": false
 }

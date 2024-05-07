@@ -18,6 +18,7 @@
 
 ---
 
+![](../z-attachments/pic1.jpeg)
 
 ![](../z-attachments/Screenshot%202024-04-26%20at%204.29.21%20PM%201.png)
 
