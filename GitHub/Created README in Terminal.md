@@ -1,3 +1,4 @@
+# Created README in Terminal
 
 1. I created a repository
 2. Initialized in my Terminal
