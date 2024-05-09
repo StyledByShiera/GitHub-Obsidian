@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/Created README in Terminal.md",
+                "file": "GitHub/How to Create and Add SSH Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/Created README in Terminal.md",
+                "file": "GitHub/How to Create and Add SSH Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/Created README in Terminal.md",
+                "file": "GitHub/How to Create and Add SSH Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/Created README in Terminal.md"
+                "file": "GitHub/How to Create and Add SSH Key.md"
               }
             }
           },
@@ -158,14 +158,22 @@
   },
   "active": "026cca8ff1b3b7b8",
   "lastOpenFiles": [
+    "z-attachments/24.png",
+    "z-attachments/23.png",
+    "z-attachments/22.png",
+    "z-attachments/21.png",
+    "z-attachments/20.png",
+    "z-attachments/19.png",
+    "z-attachments/18.png",
+    "z-attachments/17.png",
+    "z-attachments/16.png",
+    "z-attachments/15.png",
+    "z-attachments/14.png",
+    "GitHub/Created README in Terminal.md",
+    "GitHub/How to Create and Add SSH Key.md",
     "GitHub/Front End Developer.md",
     "GitHub/My GitHub README Code.md",
-    "GitHub/Created README in Terminal.md",
-    "z-attachments/pic1.jpeg",
     "GitHub/README.md",
-    "z-attachments/Screenshot 2024-04-26 at 4.29.21 PM 1.png",
-    "z-attachments/Screenshot 2024-05-04 at 11.35.14 AM.png",
-    "z-attachments/Screenshot 2024-04-26 at 4.29.21 PM.png",
     "GitHub",
     "Welcome.md",
     "z-attachments",
